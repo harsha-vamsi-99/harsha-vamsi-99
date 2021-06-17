@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harsha-vamsi-99
 - 👀 I’m interested in Erlang
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning java
 - 📫 How to reach me harshavamsi05@gmail.com
 
 <!---
